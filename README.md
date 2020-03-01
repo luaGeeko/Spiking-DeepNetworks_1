@@ -13,9 +13,9 @@ Digit 0 from mnist dataset has been below generated using spikes at different ra
      <td>1000 Hz</td>
   </tr>
   <tr>
-    <td><img src="/home/lua/Spiking-DeepNetworks_1/source_images/spike_hz_100.png" width=340 height=340></td>
-    <td><img src="/home/lua/Spiking-DeepNetworks_1/source_images/spike_hz_500.png" width=340 height=340></td>
-    <td><img src="/home/lua/Spiking-DeepNetworks_1/source_images/spike_hz_1000.png" width=340 height=340></td>
+    <td><img src="source_images/spike_hz_100.png" width=340 height=340></td>
+    <td><img src="source_images/spike_hz_500.png" width=340 height=340></td>
+    <td><img src="source_images/spike_hz_1000.png" width=340 height=340></td>
   </tr>
  </table>
  
